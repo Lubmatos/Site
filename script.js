@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const mensagem = form.querySelector("textarea").value;
 
     emailjs
-      .send(service_gv7upv6, template_glveh72, {
+      .send("service_gv7upv6", "template_glveh72", {
         from_name: nome,
         from_email: email,
         message: mensagem,
