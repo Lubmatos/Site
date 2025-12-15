@@ -1,4 +1,4 @@
-### 🌐 Site Profile — Portfólio Pessoal
+# 🌐 Site Profile — Portfólio Pessoal
 
 Projeto desenvolvido com o objetivo de servir como site de portfólio profissional, apresentando informações pessoais, habilidades e projetos de forma clara e acessível para recrutadores.
 
@@ -24,8 +24,8 @@ Todo o desenvolvimento foi realizado no VS Code, com foco principalmente em HTML
 
 ## 🔗 Links do Projeto
 
-# Site publicado:
+### Site publicado:
 👉 https://lubmatos.github.io/Site/
 
-# Repositório no GitHub:
+### Repositório no GitHub:
 👉 https://github.com/Lubmatos/Site
